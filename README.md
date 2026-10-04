@@ -35,4 +35,4 @@ Copy/paste the code onto Arduino IDE and export the compiled binary. You'll need
 
 # AI Use
 
-AI was used to bebug the code. 
+AI was used to debug the code. 
